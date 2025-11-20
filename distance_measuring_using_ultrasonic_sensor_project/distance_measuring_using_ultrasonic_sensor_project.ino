@@ -26,7 +26,7 @@ void setup() {
 
   // Clear LCD and prepare for distance display
   lcd.clear();
-  lcd.print("Distance:");
+  lcd.print("Distance:-");
 }
 
 void loop() {
